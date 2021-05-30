@@ -1,8 +1,8 @@
 name 'shell'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
-license 'All Rights Reserved'
-description 'Installs/Configures shell'
+maintainer 'Justin Dugger'
+maintainer_email 'jldugger@gmail.com'
+license 'GPL-2.0'
+description 'Installs/Configures shell server'
 version '0.1.0'
 chef_version '>= 14.0'
 
