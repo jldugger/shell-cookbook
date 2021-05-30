@@ -4,7 +4,7 @@
 #
 # Copyright (c) 2021 The Authors, All Rights Reserved.
 
-%w[tmux git ack-grep colordiff sshguard moreutils
+%w[mosh tmux git ack-grep colordiff sshguard moreutils
    myrepos pastebinit pwgen pv vim].each do |pkg|
   package pkg do
     action :upgrade
